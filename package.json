@@ -1,5 +1,5 @@
 {
-  "name": "week11-hangman",
+  "name": "hangman",
   "version": "1.0.0",
   "description": "creating a hangman game using node js",
   "main": "main.js",
