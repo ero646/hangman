@@ -13,12 +13,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/StefanieDing/Week11-Hangman.git"
+    "url": "git+https://github.com/ero646/hangman.git"
   },
-  "author": "Stefanie Ding",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/StefanieDing/Week11-Hangman/issues"
-  },
-  "homepage": "https://github.com/StefanieDing/Week11-Hangman#readme"
 }
